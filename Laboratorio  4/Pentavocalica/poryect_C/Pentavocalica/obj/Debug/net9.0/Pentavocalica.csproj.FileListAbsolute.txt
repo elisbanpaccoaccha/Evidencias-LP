@@ -1,0 +1,14 @@
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/bin/Debug/net9.0/Pentavocalica
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/bin/Debug/net9.0/Pentavocalica.deps.json
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/bin/Debug/net9.0/Pentavocalica.runtimeconfig.json
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/bin/Debug/net9.0/Pentavocalica.dll
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/bin/Debug/net9.0/Pentavocalica.pdb
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.GeneratedMSBuildEditorConfig.editorconfig
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.AssemblyInfoInputs.cache
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.AssemblyInfo.cs
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.csproj.CoreCompileInputs.cache
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.dll
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/refint/Pentavocalica.dll
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.pdb
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/Pentavocalica.genruntimeconfig.cache
+/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/obj/Debug/net9.0/ref/Pentavocalica.dll

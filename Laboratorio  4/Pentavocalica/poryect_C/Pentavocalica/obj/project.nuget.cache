@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZT6+GQ5rMQ=",
+  "success": true,
+  "projectFilePath": "/home/epadev/Documents/UNAP-2025-1/lenguaje programacion/poryect_C/Pentavocalica/Pentavocalica.csproj",
+  "expectedPackageFiles": [
+    "/home/epadev/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
